@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @jatprerna
+- 👀 I’m interested in development which can make things easy.
+- 🌱 I’m currently learning mysql,php,html,css,JS,Java.
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me ...
+
+<!---
+jatprerna/jatprerna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
