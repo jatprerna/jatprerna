@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatprerna
 - 👀 I’m interested in development which can make things easy.
-- 🌱 I’m currently learning mysql,php,html,css,JS,Java.
+- 🌱 I’m currently working at Amdocs.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
